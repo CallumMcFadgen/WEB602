@@ -1,0 +1,10 @@
+WEB601 Journal Entry 4
+
+In our last class, we all joined a shared GitBook set up by Ali, this will give the class a shared resource pool and give Ali a forum to share information with the class.
+We went over several of the lessons stored in the GitBook relating to the initial design phase of a project, the topics were…
+Prototyping
+Paper Prototyping 
+Storyboards
+Ali also shared some really good stories of his own industry experience which were really useful insights.
+For the last part of the lesson we split into smallish groups with the challenge of creating a small application or webpage to fulfil a user requirement.  We went with a takeaway price comparer in the end and created some storyboards and started on user personas.  For our next class we will refine these designs into some sort of wireframes either with HTML and CSS or with design software.
+We were also given some homework to complete, the introduction to HTML and CSS through CodeAcademy.  I have completed the HTML course (see screenshot in Image folder) which was really good, I enjoyed getting back into HTML and there were even several things that I had not used or had forgotten that were really interesting (tables and Forms).
