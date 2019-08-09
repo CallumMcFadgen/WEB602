@@ -2,15 +2,16 @@
 // Create a function that takes two numbers as arguments and returns their sum.
 
 
-const paramOne = 5;
-const paramTwo = 4;
+const paramOne = null;
+const paramTwo = null;
 
-function AddNumbers(paramOne, paramTwo){
+function AddNumbers(paramOne, paramTwo)
+{
   let result = (paramOne + paramTwo);
   return console.log(result);
 };
 
-AddNumbers();
+AddNumbers(4,5);
 
 
 // 2 - Return the Remainder from Two Numbers
@@ -19,13 +20,14 @@ AddNumbers();
 // The first provider divided by the second parameter will have a remainder, possibly zero. Return that value.
 
 
-const startingParam = 5;
-const divisonParam = 2;
+const startingParam = null;
+const divisonParam = null;
 
-function FindRemainder(startingParam, divisonParam){
+function FindRemainder(startingParam, divisonParam)
+{
   let remainder = (startingParam % divisonParam);
   return console.log(remainder);
 };
 
-FindRemainder()
+FindRemainder(5,2)
 
