@@ -16,7 +16,8 @@ function BasicAdditionV1(paramOne, paramTwo)
 BasicAdditionV1(1, 2);
 
 //3rd option (removed variable decleration as not needed)
-function BasicAdditionV2( paramOne, paramTwo){
+function BasicAdditionV2( paramOne, paramTwo)
+{
   let result = (paramOne + paramTwo);
   return console.log(result);
 };
