@@ -7,6 +7,7 @@ console.log(1 + 2);
 //2nd option
 let paramOne = null;
 let paramTwo = null;
+
 function BasicAdditionV1(paramOne, paramTwo)
 {
   let result = (paramOne + paramTwo);
@@ -36,6 +37,7 @@ console.log(5 % 2);
 // 2nd option
 let startingParam = null;
 let divisonParam = null;
+
 function FindRemainderV1(startingParam, divisonParam)
 {
   let remainder = (startingParam % divisonParam);
