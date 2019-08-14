@@ -45,3 +45,22 @@ function TriangleArea(baseParam, heightParm)
 TriangleArea(3, 2);
 TriangleArea(7, 4);
 TriangleArea(10, 10);
+console.log('\n');
+
+
+//4. Maximum Edge of a Triangle
+// Create a function that finds the maximum range of a triangles third edge.
+console.log('Maximum Edge of a Triangle Function');
+
+function MaxTriangleEdge(sideOne, sideTwo)
+{
+ let maxEdge = (sideOne + sideTwo) -1;
+ return console.log(maxEdge);
+};
+
+MaxTriangleEdge(8, 10);
+MaxTriangleEdge(5, 7);
+MaxTriangleEdge(9, 2);
+console.log('\n');
+
+
