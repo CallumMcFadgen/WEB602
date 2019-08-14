@@ -38,8 +38,8 @@ console.log('Area of a Triangle Function');
 
 function TriangleArea(baseParam, heightParm)
 {
- let area = (baseParam * heightParm) / 2;
- return console.log(area);
+  let area = (baseParam * heightParm) / 2;
+  return console.log(area);
 };
 
 TriangleArea(3, 2);
@@ -50,17 +50,84 @@ console.log('\n');
 
 //4. Maximum Edge of a Triangle
 // Create a function that finds the maximum range of a triangles third edge.
-console.log('Maximum Edge of a Triangle Function');
+console.log('Max Edge of a Triangle Function');
 
 function MaxTriangleEdge(sideOne, sideTwo)
 {
- let maxEdge = (sideOne + sideTwo) -1;
- return console.log(maxEdge);
+  let maxEdge = (sideOne + sideTwo) -1;
+  return console.log(maxEdge);
 };
 
 MaxTriangleEdge(8, 10);
 MaxTriangleEdge(5, 7);
 MaxTriangleEdge(9, 2);
 console.log('\n');
+
+
+//5. Return the Next Number from the Integer Passed
+//Create a function that takes a number as an argument, increments the number by +1 and returns the result.
+console.log('Plus One Function');
+
+function PlusOne(paramOne)
+{
+  let Result = (paramOne + 1);
+  return console.log(Result);
+}
+
+PlusOne(0);
+PlusOne(9);
+PlusOne(-3);
+console.log('\n');
+
+
+//6. Multiple of 200
+//Create a function that takes an integer and returns true if it's divisible by 200, otherwise return false.
+console.log('Divide by 200 Function');
+
+function DivideBy200(paramOne)
+{
+  if (paramOne % 200 ===0)
+  {
+    let result = true;
+    return console.log(result);
+  }
+  else
+  {
+    let result = false;
+    return console.log(result);
+  }
+};
+
+DivideBy200(1);
+DivideBy200(2000);
+DivideBy200(200);
+console.log('\n');
+
+
+//7. Is the String Empty?
+//Create a function that returns true if a string is empty and false otherwise.
+
+console.log('Check Empty String function');
+
+function EmptyStringCheck(paramOne)
+{
+  if (paramOne == null || paramOne == undefined || paramOne.length == 0)
+  {
+    let result = true;
+    return console.log(result);
+  }
+  else
+  {
+    let result = false;
+    return console.log(result);
+  }
+};
+
+EmptyStringCheck("");
+EmptyStringCheck(" ");
+EmptyStringCheck("a");
+console.log('\n');
+
+
 
 
