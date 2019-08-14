@@ -1,0 +1,10 @@
+WEB601 Journal Entry 1
+Today we started to work with GitHub, GitHub is online code storage that can be accessed by multiple users and supports version control through the use of branches and committing changes.  We all created GitHub accounts (if we didn’t already have one) and then tested the accounts by creating an initial repository with a ReadMe. We then downloaded and installed VS Code, VS Code is a really nice text editor created by Microsoft.  It supports web app development and good workflow through using an in-editor command line.  This is ideal for working with things like Node.js, ionic, angular and React.  Once our software was installed and working we did our first repository clone to our local machine and then started to practice using GitHub by creating changes to our files and code through VS Code and then using the Git command lines to save, commit and push our modified work.
+
+
+WEB601 Journal Entry 2
+I decided to work through the git exercises that we were doing on the “learn with git” webpage and try to apply the git commands to the git repo that I’m working on.  Unfortunately, I made a lot of mistakes and I actually ended up redoing my WEB602 repo altogether because it became such a mess and I couldn’t get everything to synch up.
+This was actually good practice, as I would always rather make the mistakes now, in a safe environment than later on when I have an actual project on the go or am working for an employer.
+The frustrating thing is that I’m not quite sure where I was going wrong with the git commands, but I ended up 20 commits out from my repo and could not pull the updated project to synch the two together.  I will just have to be more careful, revisit my notes and try to use the best practices that Ali has shown us in class.
+
+

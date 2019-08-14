@@ -1,2 +1,0 @@
-WEB601 Journal Entry 1
-Today we tested our Git Hub accounts, downloaded and installed VS Code and started to practice committing and push our work.
