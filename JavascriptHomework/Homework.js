@@ -130,7 +130,7 @@ console.log('\n');
 
 //8. Compare Strings by Count of Characters
 //Create a function that takes two strings as arguments and return either true or falsedepending on whether the total number of characters in the first string is equal to the total number of characters in the second string.
-console.log('Compare string length Function');
+console.log('Compare String Length Function');
 
 function StringCompare(stringOne, stringTwo)
 {
@@ -153,7 +153,7 @@ console.log('\n');
 
 //9. Is the Word Singular or Plural?
 //Create a function that takes in a word and determines whether or not it is plural. A plural word is one that ends in "s".
-console.log('Plural Checker Function');
+console.log('Check Plurals Function');
 
 function PluralCheck(string)
 {
