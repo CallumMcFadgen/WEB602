@@ -106,7 +106,6 @@ console.log('\n');
 
 //7. Is the String Empty?
 //Create a function that returns true if a string is empty and false otherwise.
-
 console.log('Check Empty String function');
 
 function EmptyStringCheck(paramOne)
@@ -129,5 +128,26 @@ EmptyStringCheck("a");
 console.log('\n');
 
 
+//8. Compare Strings by Count of Characters
+//Create a function that takes two strings as arguments and return either true or falsedepending on whether the total number of characters in the first string is equal to the total number of characters in the second string.
+console.log('Compare string length Function');
+
+function StringCompare(paramOne, paramTwo)
+{
+  if(paramOne.length == paramTwo.length)
+  {
+    let result = true;
+    console.log(result);
+  }
+  else
+  {
+    let result = false;
+    console.log(result);
+  }
+};
+
+StringCompare("AB", "CD");
+StringCompare("ABC", "DE");
+StringCompare("hello", "edabit");
 
 
