@@ -40,3 +40,13 @@ The class today was focussed on building our knowledge of some JavaScript (JS), 
 Ali also stressed that we should have the initial concept and some wire frames created for the Milestone One for the big project.  I must admit that Im a little bit behind on this but I do have a concept client (restaurant/bar/venue) needing a 5-6 page website (home, menu, events, about, blog and contact pages) I haven’t decided on the colour scheme and the site theme just yet and I will do a bit of research before I do.  
 The client would need the website to display info about the buisness such as menus, posts from the owner and related articles, pictures, upcoming events, etc.  I may even add a members section depending on time and difficulty.  My plan for the weekend is to get more of the concept down (research, colours, theme, font, rough wireframes, target market, etc) and to make some headway with the JS tutorial on Code Academy.
 
+WEB601 Journal Entry 8
+In class we started to learn about Express.js, which is a web application framework for Node.js that is a very powerful development tool for designing web applications and it provides a lot of the flow of the application (routing).
+I have started to get some of my concepts down for the big project, my refined concept is to create a website for a fictional business that will be based on the Suter Café, where I worked for many years.  This is really helpful for me as I already know their customer base and the some of the weak points of their business model so I can guess a lot of the requirements that they would have website/webapp build.
+To get the process going I have treated the project as though I had an actual client and I have started the project by creating a project brief and going through and identifying things like
+•	Name and Theme
+•	Business Model
+•	Premises/Location
+•	Customer Base
+•	Site goals 
+This was a good way to go and it has lead me to a relatively straight forward plan of a 5 page site with very minamial styling and a few areas that will benefit from JS functionality (sorting and parsing).
