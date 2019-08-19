@@ -1,5 +1,0 @@
-WEB601 Journal Entry 3
-I am stating to get a bit of a handle on git, I’m starting a doc to record the command lines that I find the most useful.
-I still feel a bit worried as I did have a repeat of the problems I initially encountered (the master is ahead of the repo master and I cant get the two to synch up) so I might need to chat to Ali at some point and see where I’m going wrong. 
-
-Update - I might have had a breakthrough, I did some work and couldnt get it to synch up with the repo untill i merged my branch to the local master, did a pull and then did a push, so probably something wrong with my workflow in command line.

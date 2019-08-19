@@ -1,7 +1,0 @@
-WEB601 Journal Entry 2
-I decided to work through the git exercises that we were doing through the learn with git webpage and try to apply them to my git repo that I’m working on.
-Unfortunately, I made lots of mistakes and I've actually ended up redoing my WEB602 repo altogether because it was such a mess and I couldn’t get
-everything to synch.
-Good practice I suppose, as I would rather make the mistakes now than later on when I have an actual project on the go, but I can already see
-poor Ali being swamped with "help me" requests for the next few weeks lol.
-The worst thing is that I’m not quite sure where I was going wrong so I will just have to be careful and try to use best practice.

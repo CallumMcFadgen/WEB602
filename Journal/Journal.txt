@@ -1,14 +1,42 @@
-A version of this journal is avalible online at my blog, simply use this URL
-https://callumschat.wordpress.com/
-and view the WEB601 categories.
-
-
-WEB601 Journal Entry 1
+WEB601 Journal Entry
 Today we started to work with GitHub, GitHub is online code storage that can be accessed by multiple users and supports version control through the use of branches and committing changes.  We all created GitHub accounts (if we didn’t already have one) and then tested the accounts by creating an initial repository with a ReadMe. We then downloaded and installed VS Code, VS Code is a really nice text editor created by Microsoft.  It supports web app development and good workflow through using an in-editor command line.  This is ideal for working with things like Node.js, ionic, angular and React.  Once our software was installed and working we did our first repository clone to our local machine and then started to practice using GitHub by creating changes to our files and code through VS Code and then using the Git command lines to save, commit and push our modified work.
+
 
 WEB601 Journal Entry 2
 I decided to work through the git exercises that we were doing on the “learn with git” webpage and try to apply the git commands to the git repo that I’m working on.  Unfortunately, I made a lot of mistakes and I actually ended up redoing my WEB602 repo altogether because it became such a mess and I couldn’t get everything to synch up.
 This was actually good practice, as I would always rather make the mistakes now, in a safe environment than later on when I have an actual project on the go or am working for an employer.
 The frustrating thing is that I’m not quite sure where I was going wrong with the git commands, but I ended up 20 commits out from my repo and could not pull the updated project to synch the two together.  I will just have to be more careful, revisit my notes and try to use the best practices that Ali has shown us in class.
 
+WEB601 Journal Entry 3
+I am starting to get a bit of a handle on using git and GitHub.  I’ve started a document to record the command lines that I find the most useful for example but I still feel a bit worried as I had a repeat of the problems I initially encountered (the master is ahead of the repo master and I cant get the two to synch up) so I might need to chat to Ali at some point and see where I’m going wrong. 
+
+WEB601 Journal Entry 4
+In our last class, we all joined a shared GitBook group set up by Ali, this will give the class a shared resource pool and give Ali a forum to share information with the class.
+The GitBook looks really useful and its full of resources and set up in a way that matches the order that we cover new information.  So the first section the the GitBook focused on the Git Commands that we have been using as well as some background information about GitHub.  We also went over several other lessons stored in the GitBook relating to the initial design phase of a project, the topics were…
+Prototyping
+Paper Prototyping 
+Storyboards
+Ali also shared some really good stories of his own industry experience which were really useful insights.
+For the last part of the lesson we split into smallish groups with the challenge of creating a small application or webpage to fulfil a user requirement.  We went with a takeaway price comparer in the end and created some storyboards and started on user personas.  For our next class we will refine these designs into some sort of wireframes either with HTML and CSS or with design software.
+We were also given some homework to complete, the introduction to HTML and CSS through CodeAcademy.  I have completed the HTML course (see screenshot in Image folder) which was really good, I enjoyed getting back into HTML and there were even several things that I had not used or had forgotten that were really interesting (tables and Forms).
+
+WEB601 Journal Entry 5
+In the last class we joined a slack group that Ali had set up the WEB602 class, it looks really interesting and its very cool to be using things like Git and Slack because of the practical real world applications for those skills. 
+In class we started to develop our concepts into a web page via a shared Git repository.  It didn’t go particularly well as it took a while for us all to start getting our heads around how pushing and pulling would work with 5 people working together on a single project (not something any of us have done before in the past).  This was a good lesson, as it really highlighted the need for good clear communication and a structured workflow and delegation of tasks. The system that Ali had mentioned in class last week, which involved a git controller monitoring the Git repository and managing the workflow on that end as well as issuing task cards to keep a clean workflow, sounded like a great idea by the end of the class.
+For homework Ali asked us to continue to work on the intro to HTML and CSS CodeAcademy lessons and to begin looking at the requirements of milestone one of the course project.  As an additional task we can also begin building a web page about ourselves for practice and to potentially become a resume page.
+I have already finished the HTML tutorial, which I enjoyed, and I am 55% through the CSS tutorial which has also been really interesting.  I have started a webpage and added it to my Git so I can practice Git commands while I work on it in my spare time, at the moment it is a very basic layup with a few initial CSS styles, I’m using bootstrap as I’m already familiar with their grid system for controlling HTML element responsiveness. 
+
+WEB601 Journal Entry 6
+In class today we started to learn about JavaScript.  Ali first took us through an overview of the most used and requested coding skill sets based on a slack survey, around the top of the list was knowledge of JavaScript based frameworks like React and Angular.
+Then those who needed to downloaded and installed Nodejs (a popular JavaScript runtime application) before we created a new Repo and started to run through some of the initial JavaScript declarations that we will be using, such as
+Declaring a variable using Var, Const and Let and the differences between using these declarations and good practice in assigning these variables values.  We also look at the Number declaration and some of the operators that could be used to create mathematic functions.
+After the JavaScript exercise, groups spoke briefly about their experiences using GitHub as a group to make our basic application wireframes.  It was really interesting to hear how everybody got on and I think that the whole exercise was really good practice for us in using GitHub in a team environment and for me it really highlighted the need to have good communication and an organised workflow.
+In addition to the classwork, I have been continuing to work on the code academy CSS tutorial (nearly finished) and I will add their JS tutorial to my to do list. 
+ I am also starting to think about what could be a good webpage/application to make for the overall project, I’m currently leaning towards some kind of group management page that would allow users to search and find other members and their information and maybe search and post events? I will go back over the requirements in the marking schedule, but I think something along these lines would give me plenty of room to incorporate JS methods for retrieving, sorting and displaying data that could even be stored in server database? 
+Ill continue to think about that one as I don’t want to take on more than I can realistically achieve with my currently limited skills.
+
+WEB601 Journal Entry 7
+The class today was focussed on building our knowledge of some JavaScript (JS), in particular we started to examine using functions, calling functions and looking at the precedence that JS applies to the order that it runs functions or reads any code for that matter.  Ali has referred us to more tutorials as well as providing a lot of really useful learning tools on the classes Git Book page, there goes my weekend 😊  I have just finished the tutorials on CSS and just added a pic of the completed courses to my GitHub.  
+Ali also stressed that we should have the initial concept and some wire frames created for the Milestone One for the big project.  I must admit that Im a little bit behind on this but I do have a concept client (restaurant/bar/venue) needing a 5-6 page website (home, menu, events, about, blog and contact pages) I haven’t decided on the colour scheme and the site theme just yet and I will do a bit of research before I do.  
+The client would need the website to display info about the buisness such as menus, posts from the owner and related articles, pictures, upcoming events, etc.  I may even add a members section depending on time and difficulty.  My plan for the weekend is to get more of the concept down (research, colours, theme, font, rough wireframes, target market, etc) and to make some headway with the JS tutorial on Code Academy.
 
